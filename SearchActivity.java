@@ -1,3 +1,5 @@
+//This is the SECOND PAGE 2
+
 package com.afiq520.foodhunter;
 
 import android.os.Bundle;
