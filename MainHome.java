@@ -1,3 +1,5 @@
+//This is the FIRST PAGE 1
+
 package com.afiq520.foodhunter;
 
 import android.content.DialogInterface;
