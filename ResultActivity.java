@@ -1,3 +1,5 @@
+This is the THIRD PAGE 3
+
 package com.afiq520.foodhunter;
 
 import android.os.Bundle;
