@@ -1,4 +1,4 @@
-This is the THIRD PAGE 3
+//This is the THIRD PAGE 3
 
 package com.afiq520.foodhunter;
 
