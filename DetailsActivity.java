@@ -1,3 +1,5 @@
+//This is the FORTH PAGE 4
+
 package com.afiq520.foodhunter;
 
 import android.os.Bundle;
